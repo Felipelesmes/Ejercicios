@@ -1,2 +1,2 @@
-# Ejercicios
+### Ejercicios
 Ejercicios prácticos
